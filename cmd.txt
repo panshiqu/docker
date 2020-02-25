@@ -1,0 +1,11 @@
+docker inspect --format '{{.LogPath}}' 592b713739ff
+
+systemctl stop firewalld.service
+
+systemctl disable firewalld.service
+
+yum provides ifconfig
+
+dig @114.114.114.114 registry-1.docker.io
+
+yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
