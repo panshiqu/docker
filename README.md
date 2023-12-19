@@ -3,7 +3,7 @@
 该项目是 [Get started with Docker](https://docs.docker.com/v18.09/get-started/) 的学习产物
 
 ## Images
-* [LibreSSL 2.8.3](https://github.com/panshiqu/docker/tree/main/libressl)
+* [LibreSSL 2.8.3](https://github.com/panshiqu/docker/tree/master/libressl)
 
 ## Build app
 
